@@ -1,0 +1,153 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: index.html
+      - text: Vignesh
+      - emphasis [ref=e4]: Arts
+    - navigation [ref=e5]:
+      - link "Art's" [ref=e6] [cursor=pointer]:
+        - /url: "#portfolio"
+      - link "Gallery" [ref=e7] [cursor=pointer]:
+        - /url: gallery.html
+      - link "About" [ref=e8] [cursor=pointer]:
+        - /url: "#about"
+  - main [ref=e9]:
+    - generic [ref=e10]:
+      - heading "VigneshArts" [level=1] [ref=e12]:
+        - generic [ref=e13]: V
+        - generic [ref=e14]: i
+        - generic [ref=e15]: g
+        - generic [ref=e16]: "n"
+        - generic [ref=e17]: e
+        - generic [ref=e18]: s
+        - generic [ref=e19]: h
+        - emphasis [ref=e20]:
+          - generic [ref=e21]: A
+          - generic [ref=e22]: r
+          - generic [ref=e23]: t
+          - generic [ref=e24]: s
+      - paragraph [ref=e27]: Pencil sketches & portraiture
+      - paragraph [ref=e28]: "@mr_un_vi"
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - paragraph [ref=e31]: Art's
+        - heading "Art's" [level=2] [ref=e32]:
+          - emphasis [ref=e33]:
+            - generic [ref=e34]: A
+            - generic [ref=e35]: r
+            - generic [ref=e36]: t
+            - generic [ref=e37]: "'"
+            - generic [ref=e38]: s
+      - generic [ref=e39]:
+        - button "Open Artwork 1" [ref=e40]:
+          - img "Artwork 1" [ref=e41]
+        - button "Open Artwork 2" [ref=e42]:
+          - img "Artwork 2" [ref=e43]
+        - button "Open Artwork 3" [ref=e44]:
+          - img "Artwork 3" [ref=e45]
+        - button "Open Artwork 4" [ref=e46]:
+          - img "Artwork 4" [ref=e47]
+        - button "Open Artwork 5" [ref=e48]:
+          - img "Artwork 5" [ref=e49]
+        - button "Open Artwork 6" [ref=e50]:
+          - img "Artwork 6" [ref=e51]
+        - button "Open Artwork 7" [ref=e52]:
+          - img "Artwork 7" [ref=e53]
+        - button "Open Artwork 8" [ref=e54]:
+          - img "Artwork 8" [ref=e55]
+        - button "Open Artwork 9" [ref=e56]:
+          - img "Artwork 9" [ref=e57]
+        - button "Open Artwork 10" [ref=e58]:
+          - img "Artwork 10" [ref=e59]
+        - button "Open Artwork 11" [ref=e60]:
+          - img "Artwork 11" [ref=e61]
+        - button "Open Artwork 12" [ref=e62]:
+          - img "Artwork 12" [ref=e63]
+        - button "Open Artwork 13" [ref=e64]:
+          - img "Artwork 13" [ref=e65]
+        - button "Open Artwork 14" [ref=e66]:
+          - img "Artwork 14" [ref=e67]
+        - button "Open Artwork 15" [ref=e68]:
+          - img "Artwork 15" [ref=e69]
+        - button "Open Artwork 16" [ref=e70]:
+          - img "Artwork 16" [ref=e71]
+        - button "Open Artwork 17" [ref=e72]:
+          - img "Artwork 17" [ref=e73]
+        - button "Open Artwork 18" [ref=e74]:
+          - img "Artwork 18" [ref=e75]
+        - button "Open Artwork 19" [ref=e76]:
+          - img "Artwork 19" [ref=e77]
+      - link "View Full Gallery" [ref=e79] [cursor=pointer]:
+        - /url: gallery.html
+    - generic [ref=e80]:
+      - img "Artist Portrait" [ref=e82]
+      - generic [ref=e83]:
+        - paragraph [ref=e84]: About
+        - heading "Vignesh" [level=2] [ref=e85]:
+          - generic [ref=e86]: V
+          - generic [ref=e87]: i
+          - generic [ref=e88]: g
+          - generic [ref=e89]: "n"
+          - generic [ref=e90]: e
+          - generic [ref=e91]: s
+          - generic [ref=e92]: h
+        - paragraph [ref=e93]: "@mr_un_vi"
+        - paragraph [ref=e94]:
+          - generic [ref=e95]: A
+          - generic [ref=e96]: passionate
+          - generic [ref=e97]: artist
+          - generic [ref=e98]: specializing
+          - generic [ref=e99]: in
+          - generic [ref=e100]: highly
+          - generic [ref=e101]: detailed
+          - generic [ref=e102]: pencil
+          - generic [ref=e103]: sketches
+          - generic [ref=e104]: and
+          - generic [ref=e105]: portraiture.
+          - generic [ref=e106]: Blending
+          - generic [ref=e107]: pop
+          - generic [ref=e108]: culture
+          - generic [ref=e109]: icons
+          - generic [ref=e110]: with
+          - generic [ref=e111]: fine
+          - generic [ref=e112]: art
+          - generic [ref=e113]: shading
+          - generic [ref=e114]: techniques
+          - generic [ref=e115]: to
+          - generic [ref=e116]: create
+          - generic [ref=e117]: striking,
+          - generic [ref=e118]: expressive
+          - generic [ref=e119]: artwork.
+        - link "Get in Touch" [ref=e120] [cursor=pointer]:
+          - /url: "#contact"
+    - generic [ref=e121]:
+      - heading "Get In Touch" [level=2] [ref=e122]:
+        - generic [ref=e123]: G
+        - generic [ref=e124]: e
+        - generic [ref=e125]: t
+        - generic [ref=e126]: I
+        - generic [ref=e127]: "n"
+        - emphasis [ref=e128]:
+          - generic [ref=e129]: T
+          - generic [ref=e130]: o
+          - generic [ref=e131]: u
+          - generic [ref=e132]: c
+          - generic [ref=e133]: h
+      - paragraph [ref=e134]:
+        - generic [ref=e135]: Interested
+        - generic [ref=e136]: in
+        - generic [ref=e137]: my
+        - generic [ref=e138]: artwork
+        - generic [ref=e139]: or
+        - generic [ref=e140]: commissions?
+        - generic [ref=e141]: Send
+        - generic [ref=e142]: me
+        - generic [ref=e143]: a
+        - generic [ref=e144]: message!
+      - generic [ref=e145]:
+        - link "Email Me" [ref=e146] [cursor=pointer]:
+          - /url: mailto:vacharya2006@gmail.com
+        - link "Instagram" [ref=e147] [cursor=pointer]:
+          - /url: https://instagram.com/mr_un_vi
+  - contentinfo [ref=e148]:
+    - paragraph [ref=e149]: © 2026 VigneshArts. All rights reserved.
