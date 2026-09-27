@@ -57,3 +57,5 @@ It's a static site with no build step. Upload these files to any static host (Gi
 - 360° photography © Hero MotoCorp
 
 This is a fan concept page, not affiliated with Hero MotoCorp. Figures are approximate.
+
+[![Live on Vercel](https://img.shields.io/badge/Live%20on-Vercel-black?logo=vercel)](https://xpluse-3d-website.vercel.app/)
